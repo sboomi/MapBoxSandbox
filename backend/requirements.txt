@@ -1,0 +1,7 @@
+python-dotenv
+rasterio
+numpy
+pandas
+flask
+requests
+geopandas
